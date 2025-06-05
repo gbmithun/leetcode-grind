@@ -1,0 +1,1 @@
+print('Green square test')
